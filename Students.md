@@ -46,10 +46,21 @@
 
 - [Remo Deijns](Students/RemoDeijns/README.md)
 
+<<<<<<< Updated upstream
 - [Jodie Wijermars](Students/Jodie/README.md)
 
 - [Michelle de Leeuw](Students/MichelledeLeeuw/README.md)
+<<<<<<< Updated upstream
 - [Katharine Wimett](Students/KatharineWimett/README.MD)
 
 Merel IJpelaar: https://github.com/ArtezGDA/Pioneers/tree/master/MerelIJpelaar/README.md
 
+=======
+
+Merel IJpelaar: https://github.com/ArtezGDA/Pioneers/tree/master/MerelIJpelaar/README.md
+=======
+- [MerelIJpelaar](Students/MerelIJpelaar/README.md)
+
+- [Hannah Ploeg](Students/Hannah-Ploeg/README.md)
+>>>>>>> Stashed changes
+>>>>>>> Stashed changes
