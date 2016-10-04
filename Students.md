@@ -25,7 +25,11 @@
 
 - [Lisa Dijksterhuis](Students/LisaDijksterhuis/readme.md)
 
+<<<<<<< HEAD
 - [SamReith](Students/SamReith/readme.md)
+=======
+- [Sam Reith](Students/SamReith/readme.md)
+>>>>>>> origin/master
 
 - [SaskiaBrandt] (Students/SaskiaBrandt/readme.md)
 
