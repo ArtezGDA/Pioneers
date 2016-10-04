@@ -29,10 +29,6 @@
 
 - [Saskia Brandt] (Student/SaskiaBrandt/readme.md)
 
->>>>>>> origin/master
->>>>>>> origin/master
-
-
 
 ## Afternoon: 2A
 
