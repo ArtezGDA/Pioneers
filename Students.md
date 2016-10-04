@@ -61,6 +61,6 @@ Merel IJpelaar: https://github.com/ArtezGDA/Pioneers/tree/master/MerelIJpelaar/R
 =======
 - [MerelIJpelaar](Students/MerelIJpelaar/README.md)
 
-- [Hannah Ploeg](Students/Hannah-Ploeg/README.md)
+- [Hannah Ploeg](Students/HannahPloeg/README.md)
 >>>>>>> Stashed changes
 >>>>>>> Stashed changes
