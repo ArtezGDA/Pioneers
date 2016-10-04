@@ -25,6 +25,10 @@
 
 - [Lisa Dijksterhuis](Students/LisaDijksterhuis/readme.md)
 
+- [Sam Reith] (Student/SamReith/readme.md)
+
+- [Saskia Brandt] (Student/SaskiaBrandt/readme.md)
+
 >>>>>>> origin/master
 >>>>>>> origin/master
 
