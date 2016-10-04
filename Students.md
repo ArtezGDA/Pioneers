@@ -19,13 +19,13 @@
 
 - [Marleen van Zalm](Students/Marleenvanzalm/readme.md)
 
-- [ZsaZsaTuffy] (Students/ZsazsaTuffy/README.md)
+- [ZsaZsaTuffy](Students/ZsazsaTuffy/README.md)
 
 - [Kiana Beijleveld](Students/KianaBeijleveld/readme.md)
 
 - [Lisa Dijksterhuis](Students/LisaDijksterhuis/readme.md)
 
-- [SamReith] (Students/SamReith/readme.md)
+- [SamReith](Students/SamReith/readme.md)
 
 - [SaskiaBrandt] (Students/SaskiaBrandt/readme.md)
 
