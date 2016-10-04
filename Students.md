@@ -19,15 +19,15 @@
 
 - [Marleen van Zalm](Students/Marleenvanzalm/readme.md)
 
-- [Zsa Zsa Tuffy] (Students/ZsazsaTuffy/README.md)
+- [ZsaZsaTuffy] (Students/ZsazsaTuffy/README.md)
 
 - [Kiana Beijleveld](Students/KianaBeijleveld/readme.md)
 
 - [Lisa Dijksterhuis](Students/LisaDijksterhuis/readme.md)
 
-- [Sam Reith] (Students/SamReith/readme.md)
+- [SamReith] (Students/SamReith/readme.md)
 
-- [Saskia Brandt] (Students/SaskiaBrandt/readme.md)
+- [SaskiaBrandt] (Students/SaskiaBrandt/readme.md)
 
 
 ## Afternoon: 2A
