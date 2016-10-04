@@ -20,7 +20,7 @@
 - [Marleen van Zalm](Students/Marleenvanzalm/readme.md)
 
 <<<<<<< HEAD
-- [Zsa Zsa Tuffy] (students/Zsazsatuffy/README.md)
+- [Zsa Zsa Tuffy] (students/ZsaZsaTuffy/README.md)
 
 =======
 <<<<<<< HEAD
