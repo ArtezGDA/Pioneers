@@ -27,7 +27,7 @@
 
 - [Sam Reith](Students/SamReith/readme.md)
 
-- [Saskia Brandt] (Students/SaskiaBrandt/readme.md)
+- [SaskiaBrand] (Students/SaskiaBrandt/readme.md)
 
 
 ## Afternoon: 2A
