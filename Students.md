@@ -19,7 +19,7 @@
 
 - [Marleen van Zalm](Students/Marleenvanzalm/readme.md)
 
-- [Zsa Zsa Tuffy] (Students/ZsaZsaTuffy/README.md)
+- [Zsa Zsa Tuffy] (Students/ZsazsaTuffy/README.md)
 
 - [Kiana Beijleveld](Students/KianaBeijleveld/readme.md)
 
