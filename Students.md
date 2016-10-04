@@ -19,13 +19,10 @@
 
 - [Marleen van Zalm](Students/Marleenvanzalm/readme.md)
 
-<<<<<<< HEAD
 - [Zsa Zsa Tuffy] (students/ZsaZsaTuffy/README.md)
 
-=======
-<<<<<<< HEAD
 - [Kiana Beijleveld](Students/KianaBeijleveld/readme.md)
-=======
+
 - [Lisa Dijksterhuis](Students/LisaDijksterhuis/readme.md)
 
 >>>>>>> origin/master
