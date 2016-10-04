@@ -49,5 +49,7 @@
 - [Jodie Wijermars](Students/Jodie/README.md)
 
 - [Michelle de Leeuw](Students/MichelledeLeeuw/README.md)
+- [Katharine Wimett](Students/KatharineWimett/README.MD)
 
 Merel IJpelaar: https://github.com/ArtezGDA/Pioneers/tree/master/MerelIJpelaar/README.md
+
