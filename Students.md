@@ -25,7 +25,7 @@
 
 - [Lisa Dijksterhuis](Students/LisaDijksterhuis/readme.md)
 
-- [Sam Reith] (Students/SamReith/readme.md)
+- [Sam Reith](Students/SamReith/readme.md)
 
 - [Saskia Brandt] (Students/SaskiaBrandt/readme.md)
 
