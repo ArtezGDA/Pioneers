@@ -19,14 +19,25 @@
 
 - [Marleen van Zalm](Students/Marleenvanzalm/readme.md)
 
+<<<<<<< HEAD
 - [Zsa Zsa Tuffy] (students/Zsazsatuffy/README.md)
 
+=======
+<<<<<<< HEAD
+- [Kiana Beijleveld](Students/KianaBeijleveld/readme.md)
+=======
+- [Lisa Dijksterhuis](Students/LisaDijksterhuis/readme.md)
+
+>>>>>>> origin/master
+>>>>>>> origin/master
 
 
 
 ## Afternoon: 2A
 
 - [Anne de Bekker](Students/annedebekker/README.md)
+
+- [Einar Anddersen](Students/EinarAndersen/README.md)
 
 - [Remo Deijns](Students/RemoDeijns/README.md)
 
