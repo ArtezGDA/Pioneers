@@ -31,7 +31,11 @@
 - [Sam Reith](Students/SamReith/readme.md)
 >>>>>>> origin/master
 
+<<<<<<< HEAD
 - [SaskiaBrandt] (Students/SaskiaBrandt/readme.md)
+=======
+- [SaskiaBrand] (Students/SaskiaBrandt/readme.md)
+>>>>>>> origin/master
 
 
 ## Afternoon: 2A
