@@ -7,17 +7,17 @@
 
 - [Sharon Hoogers](Students/SharonHoogers/README.md)
 
-- [Iris de Graaf](Students/IrisdeGraaf/README.md)
+- [Iris de Graaf](Students/IrisDeGraaf/README.md)
 
 - [Jody Peters](students/JodyPeters/README.md)
 
 - [Marlou Bleijenberg](Students/MarlouBleijenberg/README.md)
 
-- [Jesse van Meel](Students/JessevanMeel/README.md)
+- [Jesse van Meel](Students/JesseVanMeel/README.md)
 
-- [Marleen van Zalm](Students/Marleenvanzalm/readme.md)
+- [Marleen van Zalm](Students/MarleenVanZalm/readme.md)
 
-- [ZsaZsaTuffy](Students/ZsazsaTuffy/README.md)
+- [ZsaZsaTuffy](Students/ZsaZsaTuffy/README.md)
 
 - [Kiana Beijleveld](Students/KianaBeijleveld/readme.md)
 
@@ -38,16 +38,16 @@
 
 ## Afternoon: 2A
 
-- [Anne de Bekker](Students/annedebekker/README.md)
+- [Anne de Bekker](Students/AnneDeBekker/README.md)
 
 - [Einar Anddersen](Students/EinarAndersen/README.md)
 
 - [Remo Deijns](Students/RemoDeijns/README.md)
 
 <<<<<<< Updated upstream
-- [Jodie Wijermars](Students/Jodie/README.md)
+- [Jodie Wijermars](Students/JodieWijermars/README.md)
 
-- [Michelle de Leeuw](Students/MichelledeLeeuw/README.md)
+- [Michelle de Leeuw](Students/MichelleDeLeeuw/README.md)
 <<<<<<< Updated upstream
 - [Katharine Wimett](Students/KatharineWimett/README.MD)
 
