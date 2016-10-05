@@ -1,6 +1,7 @@
 # Homework of all students
 
 ## Morning: 2B
+
 - [Ilse koop](Students/IlseKoop/README.md)
 
 - [Carmen Steenbrink](Students/CarmenSteenbrink/README.md)
@@ -23,18 +24,9 @@
 
 - [Lisa Dijksterhuis](Students/LisaDijksterhuis/readme.md)
 
-<<<<<<< HEAD
-- [SamReith](Students/SamReith/readme.md)
-=======
 - [Sam Reith](Students/SamReith/readme.md)
->>>>>>> origin/master
 
-<<<<<<< HEAD
-- [SaskiaBrandt] (Students/SaskiaBrandt/readme.md)
-=======
-- [SaskiaBrand] (Students/SaskiaBrandt/readme.md)
->>>>>>> origin/master
-
+- [SaskiaBrandt](Students/SaskiaBrandt/readme.md)
 
 ## Afternoon: 2A
 
@@ -44,21 +36,12 @@
 
 - [Remo Deijns](Students/RemoDeijns/README.md)
 
-<<<<<<< Updated upstream
 - [Jodie Wijermars](Students/JodieWijermars/README.md)
 
 - [Michelle de Leeuw](Students/MichelleDeLeeuw/README.md)
-<<<<<<< Updated upstream
+
 - [Katharine Wimett](Students/KatharineWimett/README.MD)
 
-Merel IJpelaar: https://github.com/ArtezGDA/Pioneers/tree/master/MerelIJpelaar/README.md
-
-=======
-
-Merel IJpelaar: https://github.com/ArtezGDA/Pioneers/tree/master/MerelIJpelaar/README.md
-=======
 - [MerelIJpelaar](Students/MerelIJpelaar/README.md)
 
 - [Hannah Ploeg](Students/HannahPloeg/README.md)
->>>>>>> Stashed changes
->>>>>>> Stashed changes
