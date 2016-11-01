@@ -27,3 +27,4 @@
 - [Michelle de Leeuw](Students/MichelleDeLeeuw/README.md)
 - [Remo Deijns](Students/RemoDeijns/README.md)
 - [Pamina Reisinger](Students/PaminaReisinger/README.md)
+- [Nienke Temmink](Students/NienkeTemmink/README.md)
